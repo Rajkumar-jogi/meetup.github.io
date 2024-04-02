@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rajkumar-jogi/meetup.github.io.git/static/css/main.a67f6b82.chunk.css",
+    "main.js": "/Rajkumar-jogi/meetup.github.io.git/static/js/main.caed989d.chunk.js",
+    "main.js.map": "/Rajkumar-jogi/meetup.github.io.git/static/js/main.caed989d.chunk.js.map",
+    "runtime-main.js": "/Rajkumar-jogi/meetup.github.io.git/static/js/runtime-main.d16cec38.js",
+    "runtime-main.js.map": "/Rajkumar-jogi/meetup.github.io.git/static/js/runtime-main.d16cec38.js.map",
+    "static/js/2.0288412a.chunk.js": "/Rajkumar-jogi/meetup.github.io.git/static/js/2.0288412a.chunk.js",
+    "static/js/2.0288412a.chunk.js.map": "/Rajkumar-jogi/meetup.github.io.git/static/js/2.0288412a.chunk.js.map",
+    "index.html": "/Rajkumar-jogi/meetup.github.io.git/index.html",
+    "static/css/main.a67f6b82.chunk.css.map": "/Rajkumar-jogi/meetup.github.io.git/static/css/main.a67f6b82.chunk.css.map",
+    "static/js/2.0288412a.chunk.js.LICENSE.txt": "/Rajkumar-jogi/meetup.github.io.git/static/js/2.0288412a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d16cec38.js",
+    "static/js/2.0288412a.chunk.js",
+    "static/css/main.a67f6b82.chunk.css",
+    "static/js/main.caed989d.chunk.js"
+  ]
+}
